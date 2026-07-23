@@ -17,3 +17,12 @@ CODE EXPLANATION:
     -Finally, it returns the new linked list, which represents the sum of the two numbers.
 
 -------------------------------------------------------------------------------------------
+## DAY 3
+PROBLEM TITLE:
+    PALINDROME NUMBER
+CODE EXPLANATION:
+    -This code checks whether a given number is a palindrome by reversing its digits and comparing the reversed number with the original.
+    -It first rejects negative numbers and numbers ending in 0 (except 0 itself), as they cannot be palindromes.
+    -If both numbers are equal after reversing, it returns True; otherwise, it returns False.
+
+-------------------------------------------------------------------------------------------
