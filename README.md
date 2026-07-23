@@ -8,3 +8,12 @@
         -If no pair is found, the code returns an empty list.
 
 ------------------------------------------------------------------------------------------
+## DAY 2
+PROBLEM TITLE:
+    ADD TWO NUMBERS
+CODE EXPLANATION:
+    -This code adds two numbers stored as linked lists by going through each node one by one.
+    -It adds the corresponding values along with any carry from the previous addition, creates a new node for the result digit, and moves to the next nodes.
+    -Finally, it returns the new linked list, which represents the sum of the two numbers.
+
+-------------------------------------------------------------------------------------------
