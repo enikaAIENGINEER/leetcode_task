@@ -25,4 +25,11 @@ CODE EXPLANATION:
     -It first rejects negative numbers and numbers ending in 0 (except 0 itself), as they cannot be palindromes.
     -If both numbers are equal after reversing, it returns True; otherwise, it returns False.
 
--------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+## DAY 4
+PROBLEM TITLE:
+    ROMAN TO INTEGER
+CODE EXPLANATION:
+    -This code converts a Roman numeral into an integer by reading the characters from right to left and finding their values using a dictionary.
+    -If the current Roman numeral is smaller than the previous one, it subtracts its value; otherwise, it adds it to the total.
+    -Finally, it returns the calculated integer value.
