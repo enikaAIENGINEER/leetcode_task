@@ -33,3 +33,11 @@ CODE EXPLANATION:
     -This code converts a Roman numeral into an integer by reading the characters from right to left and finding their values using a dictionary.
     -If the current Roman numeral is smaller than the previous one, it subtracts its value; otherwise, it adds it to the total.
     -Finally, it returns the calculated integer value.
+----------------------------------------------------------------------------------------------------
+##DAY 5
+PROBLEM TITLE:
+    LONGEST COMMON PREFIX
+CODE EXPLANATION:
+    -This code finds the longest common prefix among all the strings in the list by starting with the first string as the initial prefix.
+    -It compares this prefix with each remaining string and keeps removing the last character until all strings start with the same prefix.
+    -Finally, it returns the longest common prefix, or an empty string if no common prefix exists.
