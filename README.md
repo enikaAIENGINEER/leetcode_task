@@ -9,35 +9,43 @@
 
 ------------------------------------------------------------------------------------------
 ## DAY 2
-PROBLEM TITLE:
-    ADD TWO NUMBERS
-CODE EXPLANATION:
-    -This code adds two numbers stored as linked lists by going through each node one by one.
-    -It adds the corresponding values along with any carry from the previous addition, creates a new node for the result digit, and moves to the next nodes.
-    -Finally, it returns the new linked list, which represents the sum of the two numbers.
+    PROBLEM TITLE:
+        ADD TWO NUMBERS
+    CODE EXPLANATION:
+        -This code adds two numbers stored as linked lists by going through each node one by one.
+        -It adds the corresponding values along with any carry from the previous addition, creates a new node for the result digit, and moves to the next nodes.
+        -Finally, it returns the new linked list, which represents the sum of the two numbers.
 
 -------------------------------------------------------------------------------------------
 ## DAY 3
-PROBLEM TITLE:
-    PALINDROME NUMBER
-CODE EXPLANATION:
-    -This code checks whether a given number is a palindrome by reversing its digits and comparing the reversed number with the original.
-    -It first rejects negative numbers and numbers ending in 0 (except 0 itself), as they cannot be palindromes.
-    -If both numbers are equal after reversing, it returns True; otherwise, it returns False.
+    PROBLEM TITLE:
+        PALINDROME NUMBER
+    CODE EXPLANATION:
+        -This code checks whether a given number is a palindrome by reversing its digits and comparing the reversed number with the original.
+        -It first rejects negative numbers and numbers ending in 0 (except 0 itself), as they cannot be palindromes.
+        -If both numbers are equal after reversing, it returns True; otherwise, it returns False.
 
 ----------------------------------------------------------------------------------------------------
 ## DAY 4
-PROBLEM TITLE:
-    ROMAN TO INTEGER
-CODE EXPLANATION:
-    -This code converts a Roman numeral into an integer by reading the characters from right to left and finding their values using a dictionary.
-    -If the current Roman numeral is smaller than the previous one, it subtracts its value; otherwise, it adds it to the total.
-    -Finally, it returns the calculated integer value.
+    PROBLEM TITLE:
+        ROMAN TO INTEGER
+    CODE EXPLANATION:
+        -This code converts a Roman numeral into an integer by reading the characters from right to left and finding their values using a dictionary.
+        -If the current Roman numeral is smaller than the previous one, it subtracts its value; otherwise, it adds it to the total.
+        -Finally, it returns the calculated integer value.
 ----------------------------------------------------------------------------------------------------
 ##DAY 5
-PROBLEM TITLE:
-    LONGEST COMMON PREFIX
-CODE EXPLANATION:
-    -This code finds the longest common prefix among all the strings in the list by starting with the first string as the initial prefix.
-    -It compares this prefix with each remaining string and keeps removing the last character until all strings start with the same prefix.
-    -Finally, it returns the longest common prefix, or an empty string if no common prefix exists.
+    PROBLEM TITLE:
+        LONGEST COMMON PREFIX
+    CODE EXPLANATION:
+        -This code finds the longest common prefix among all the strings in the list by starting with the first string as the initial prefix.
+        -It compares this prefix with each remaining string and keeps removing the last character until all strings start with the same prefix.
+        -Finally, it returns the longest common prefix, or an empty string if no common prefix exists.
+----------------------------------------------------------------------------------------------------
+##DAY 6
+    PROBLEM TITLE:
+        VALID PARANTHESES
+    CODE EXPLANATION:
+        -This code checks whether the brackets in the given string are balanced and in the correct order by using a stack.
+        -It pushes every opening bracket onto the stack, and whenever it finds a closing bracket, it compares it with the most recent opening bracket.
+        -If they don't match or the stack is empty, it returns False; otherwise, if the stack is empty at the end, it returns True.
