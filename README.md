@@ -35,7 +35,7 @@
         -Finally, it returns the calculated integer value.
 
 ----------------------------------------------------------------------------------------------------
-##DAY 5
+## DAY 5
     PROBLEM TITLE:
         LONGEST COMMON PREFIX
     CODE EXPLANATION:
@@ -44,7 +44,7 @@
         -Finally, it returns the longest common prefix, or an empty string if no common prefix exists.
 
 ----------------------------------------------------------------------------------------------------
-##DAY 6
+## DAY 6
     PROBLEM TITLE:
         VALID PARANTHESES
     CODE EXPLANATION:
@@ -53,11 +53,11 @@
         -If they don't match or the stack is empty, it returns False; otherwise, if the stack is empty at the end, it returns True.
 
 ----------------------------------------------------------------------------------------------------
-##DAY 7
+## DAY 7
     PROBLEM TITLE:
         MERGE TWO SORTED LISTS
     CODE EXPLANATION:
         -This code merges two sorted linked lists into a single sorted linked list by comparing the current nodes of both lists.
         -It attaches the smaller node to the new list, moves that list's pointer forward, and repeats the process until one of the lists is exhausted.
-        
+
 ----------------------------------------------------------------------------------------------------
