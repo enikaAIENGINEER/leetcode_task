@@ -49,3 +49,11 @@
         -This code checks whether the brackets in the given string are balanced and in the correct order by using a stack.
         -It pushes every opening bracket onto the stack, and whenever it finds a closing bracket, it compares it with the most recent opening bracket.
         -If they don't match or the stack is empty, it returns False; otherwise, if the stack is empty at the end, it returns True.
+----------------------------------------------------------------------------------------------------
+##DAY 7
+    PROBLEM TITLE:
+        MERGE TWO SORTED LISTS
+    CODE EXPLANATION:
+        -This code merges two sorted linked lists into a single sorted linked list by comparing the current nodes of both lists.
+        -It attaches the smaller node to the new list, moves that list's pointer forward, and repeats the process until one of the lists is exhausted.
+----------------------------------------------------------------------------------------------------
