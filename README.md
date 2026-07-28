@@ -61,3 +61,12 @@
         -It attaches the smaller node to the new list, moves that list's pointer forward, and repeats the process until one of the lists is exhausted.
 
 ----------------------------------------------------------------------------------------------------
+## DAY 8
+    PROBLEM TITLE:
+        REVERSE STRING
+    CODE EXPLANATION:
+        -The reverseString() function reverses the given list of characters using Python's built-in reverse() method.
+        -The reverse() method changes the original list directly (in-place), so no new list is created.
+        -Since it modifies the input itself, the function does not need to return any value.
+
+----------------------------------------------------------------------------------------------------
