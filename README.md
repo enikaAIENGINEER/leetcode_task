@@ -70,3 +70,12 @@
         -Since it modifies the input itself, the function does not need to return any value.
 
 ----------------------------------------------------------------------------------------------------
+## DAY 9
+    PROMBLEM TITLE:
+        REMOVE DUPLICATES FROM SORTED ARRAY
+    CODE EXPLANATION:
+        -The removeDuplicates() function removes duplicate elements from a sorted list by keeping only the unique values at the beginning of the same list.
+        -It uses the variable k to track the position where the next unique element should be placed.
+        -As it scans the list, each new unique element is copied to the correct position, and finally k is returned as the total number of unique elements.
+
+----------------------------------------------------------------------------------------------------
