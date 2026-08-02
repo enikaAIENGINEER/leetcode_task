@@ -79,3 +79,12 @@
         -As it scans the list, each new unique element is copied to the correct position, and finally k is returned as the total number of unique elements.
 
 ----------------------------------------------------------------------------------------------------
+## DAY 10
+    PROBLEM TITLE:
+        REMOVE ELEMENT
+    CODE EXPLANATION:
+        -The removeElement() function removes all occurrences of the given value val from the list by shifting the remaining elements to the front of the same list.
+        -It uses the variable k to keep track of the position where the next valid element should be placed.
+        -As the list is traversed, only the elements that are not equal to val are copied, and finally k is returned as the number of remaining elements.
+
+----------------------------------------------------------------------------------------------------
