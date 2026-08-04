@@ -88,3 +88,11 @@
         -As the list is traversed, only the elements that are not equal to val are copied, and finally k is returned as the number of remaining elements.
 
 ----------------------------------------------------------------------------------------------------
+## DAY 11
+    PROBLEM TITLE:
+        FIND THE INDEX OF THE FIRST OCCURRENCE IN A STRING
+    CODE EXPLANATION:
+        -The removeElement() function removes all occurrences of the given value val from the list by moving the remaining elements to the front of the same list.
+        -It uses the variable k to track the position of valid elements and returns k as the number of elements left after removal.
+
+----------------------------------------------------------------------------------------------------
