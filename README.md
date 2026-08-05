@@ -96,3 +96,11 @@
         -It uses the variable k to track the position of valid elements and returns k as the number of elements left after removal.
 
 ----------------------------------------------------------------------------------------------------
+## DAY 12
+    PROBLEM TITLE:
+        SEARCH INSERT POSITION
+    CODE EXPLANATION:
+        -The searchInsert() function uses the binary search technique to find the position of the target element in a sorted list.
+        -If the target is found, it returns its index; otherwise, it returns the position where the target should be inserted to keep the list sorted.
+
+----------------------------------------------------------------------------------------------------
