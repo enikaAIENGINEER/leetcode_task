@@ -104,3 +104,11 @@
         -If the target is found, it returns its index; otherwise, it returns the position where the target should be inserted to keep the list sorted.
 
 ----------------------------------------------------------------------------------------------------
+## DAY 13
+    PROBLEM TITLE:
+        LENGTH OF LAST WORD 
+    CODE EXPLANATION:
+        -The lengthOfLastWord() function finds the length of the last word in a given string.
+        -It first splits the string into a list of words using split(), then returns the length of the last word using the len() function.
+
+----------------------------------------------------------------------------------------------------
