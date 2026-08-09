@@ -112,3 +112,11 @@
         -It first splits the string into a list of words using split(), then returns the length of the last word using the len() function.
 
 ----------------------------------------------------------------------------------------------------
+## DAY 14
+    PROBLEM TITLE:
+        PLUS ONE
+    CODE EXPLANATION:
+       -The code adds 1 to the number represented by the list of digits, starting from the last digit.
+       -If a digit is 9, it becomes 0 and the carry moves to the previous digit; if all digits are 9, it returns [1] + digits to add a new leading 1.
+
+----------------------------------------------------------------------------------------------------
