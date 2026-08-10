@@ -120,3 +120,11 @@
        -If a digit is 9, it becomes 0 and the carry moves to the previous digit; if all digits are 9, it returns [1] + digits to add a new leading 1.
 
 ----------------------------------------------------------------------------------------------------
+## DAY 15
+    PROBLEM TITLE:
+        ADD BINARY
+    CODE EXPLANATION:
+        -The code adds two binary numbers starting from the rightmost digits, keeping track of the carry.
+        -It calculates each binary digit using total % 2, updates the carry using total // 2, and finally reverses the result to get the correct binary sum.
+
+----------------------------------------------------------------------------------------------------
