@@ -128,3 +128,11 @@
         -It calculates each binary digit using total % 2, updates the carry using total // 2, and finally reverses the result to get the correct binary sum.
 
 ----------------------------------------------------------------------------------------------------
+## DAY 16
+    PROBLEM TITLE:
+        REMOVE DUPLICATES FROM SORTED LIST
+    CODE EXPLANATION:
+        -The code removes duplicate values from a sorted linked list. It compares the current node with the next node; if they are equal, it skips the duplicate node, otherwise it moves forward.
+        -Finally, it returns the updated linked list starting from `head`.
+
+----------------------------------------------------------------------------------------------------
