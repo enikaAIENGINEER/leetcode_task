@@ -135,4 +135,12 @@
         -The code removes duplicate values from a sorted linked list. It compares the current node with the next node; if they are equal, it skips the duplicate node, otherwise it moves forward.
         -Finally, it returns the updated linked list starting from `head`.
 
+--------------------------------------------------------------------------------------------
+## DAY 17
+    PROBLEM TITLE:
+        MERGE SORTED ARRAY
+    CODE EXPLANATION:
+        -This program merges two sorted arrays into `nums1` in-place by comparing elements from the end and placing the larger element at the last available position.
+        -It then copies any remaining elements from `nums2` into `nums1`.
+
 ----------------------------------------------------------------------------------------------------
