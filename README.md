@@ -144,3 +144,11 @@
         -It then copies any remaining elements from `nums2` into `nums1`.
 
 ----------------------------------------------------------------------------------------------------
+## DAY 18
+    PROBLEM TITLE:
+        BINARY TREE INORDER TRAVERSAL
+    CODE EXPLANATION:
+        -This program performs an inorder traversal of a binary tree using recursion.
+        -It visits the left subtree, root node, and right subtree in order, stores each node’s value in result, and returns the list.
+
+----------------------------------------------------------------------------------------------------
