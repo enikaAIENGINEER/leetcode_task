@@ -151,4 +151,12 @@
         -This program performs an inorder traversal of a binary tree using recursion.
         -It visits the left subtree, root node, and right subtree in order, stores each node’s value in result, and returns the list.
 
-----------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------
+## DAY 19
+    PROBLEM TITLE:
+        SAME TREE
+    CODE EXPLANATION:
+        -This program checks whether two binary trees are identical using recursion.
+        -It compares the values of corresponding nodes and recursively checks their left and right subtrees, returning `True` only when both trees have the same structure and values.
+
+---------------------------------------------------------------------------------------------
