@@ -159,4 +159,12 @@
         -This program checks whether two binary trees are identical using recursion.
         -It compares the values of corresponding nodes and recursively checks their left and right subtrees, returning `True` only when both trees have the same structure and values.
 
----------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+## DAY 20
+    PROBLEM TITLE:
+        SYMMETRIC TREE
+    CODE EXPLANATION:
+        -This program checks whether a binary tree is symmetric by comparing its left and right subtrees as mirror images.
+        -It recursively checks that corresponding nodes have the same values and opposite child positions, returning `True` if the entire tree is symmetric.
+
+----------------------------------------------------------------------------------------------------
