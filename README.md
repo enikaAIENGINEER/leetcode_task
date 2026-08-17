@@ -168,3 +168,11 @@
         -It recursively checks that corresponding nodes have the same values and opposite child positions, returning `True` if the entire tree is symmetric.
 
 ----------------------------------------------------------------------------------------------------
+## DAY 21
+    PROBLEM TITLE:
+        MAXIMUM DEPTH OF THE BINARY TREE
+    CODE EXPLANATION:
+        -This program finds the **maximum depth of a binary tree** using recursion.
+        -It calculates the depth of the left and right subtrees and returns **1 + the greater depth**, giving the total number of levels in the tree.
+
+----------------------------------------------------------------------------------------------------
