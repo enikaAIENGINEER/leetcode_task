@@ -176,3 +176,11 @@
         -It calculates the depth of the left and right subtrees and returns **1 + the greater depth**, giving the total number of levels in the tree.
 
 ----------------------------------------------------------------------------------------------------
+## DAY 22
+    PROBLEM TITLE:
+        BALANCED-BINARY TREE
+    CODE EXPLANATION:
+        -This code checks whether the binary tree is balanced or not.
+        -It finds the height of the left and right sides, and if their difference is more than 1, the tree is considered unbalanced.
+
+----------------------------------------------------------------------------------------------------
