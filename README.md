@@ -184,3 +184,11 @@
         -It finds the height of the left and right sides, and if their difference is more than 1, the tree is considered unbalanced.
 
 ----------------------------------------------------------------------------------------------------
+## DAY 23
+    PROBLEM TITLE:
+        MINIMUM DEPTH OF BINARY TREE
+    CODE EXPLANATION:
+        -It finds the **shortest path from the root to a leaf node**.
+        -It checks both sides and returns the **smaller depth**.
+
+----------------------------------------------------------------------------------------------------
