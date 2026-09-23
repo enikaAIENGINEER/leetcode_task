@@ -192,3 +192,12 @@
         -It checks both sides and returns the **smaller depth**.
 
 ----------------------------------------------------------------------------------------------------
+## DAY 24
+    PROBLEM TITLE:
+        PATH SUM
+    CODE EXPLANATION:
+        -This code checks if any path from the root node to a leaf node adds up to the given target sum.
+        -It subtracts each node’s value from the target and checks the left and right sides.
+        -If a correct path is found, it returns `True`; otherwise, `False`.
+
+----------------------------------------------------------------------------------------------------
