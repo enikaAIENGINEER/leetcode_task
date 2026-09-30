@@ -201,3 +201,11 @@
         -If a correct path is found, it returns `True`; otherwise, `False`.
 
 ----------------------------------------------------------------------------------------------------
+## DAY 25
+    PROBLEM TITLE:
+        PASCALS-TRIANGLE
+    CODE EXPLANATION:
+        -It creates Pascal’s Triangle row by row, starting and ending each row with `1`.
+        -For the middle values, it adds the two numbers directly above them and stores the rows in `triangle`.
+
+----------------------------------------------------------------------------------------------------
